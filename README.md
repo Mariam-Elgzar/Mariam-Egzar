@@ -1,8 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Hi 👋 My name is Mariam Alaa
 ============================
 
-Mobile developer
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ----------------
+
+### :woman_technologist: About Me :
+
+Mobile developer
 
 * ✉️  You can contact me at [mariamelgzar7234113@gmail.com](mailto:mariamelgzar7234113@gmail.com)
 
@@ -19,4 +29,4 @@ Mobile developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mariam-Elgzar"><img src="https://github-readme-stats.vercel.app/api?username=Mariam-Elgzar&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Mariam-Elgzar's GitHub stats" /></a>
+<a href="http://www.github.com/Mariam-Elgzar"><img src="https://github-readme-stats.vercel.app/api?username=Mariam-Elgzar&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Mariam-Elgzar's GitHub stats" /></a>
